@@ -7,7 +7,7 @@ INCLUDE Irvine32.inc
 
 .DATA
 
-a WORD 1920 DUP(0)  ; Framebuffer (24x80)
+a WORD 1920 DUP(0)  ; Framebuffer (24x80) lol
 
 tR BYTE 16d         ; Snake tail row number
 tC BYTE 47d         ; Snake tail column number
